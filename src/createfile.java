@@ -16,7 +16,8 @@ public class createfile {
     }
 
     public void addRecords() {
-        x.format("1.first record; 2.second record; 3.third record; 4.fourth record; 5.fives record");
+        x.format("1.first record; 2.second record; 3.third record; 4.fourth record; 5.fives record ");
+        x.format(" 6.six");
     }
 
     public void closeFile() {
